@@ -1,0 +1,8 @@
+body {
+    display: flex;
+}
+
+.conteiner {
+    justify-self: center;
+    align-self: center;
+}
